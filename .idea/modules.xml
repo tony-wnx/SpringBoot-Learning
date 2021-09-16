@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Learning.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart/quickstart.iml" filepath="$PROJECT_DIR$/quickstart/quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-01-helloworld/springboot-01-helloworld.iml" filepath="$PROJECT_DIR$/springboot-01-helloworld/springboot-01-helloworld.iml" />
+    </modules>
+  </component>
+</project>
